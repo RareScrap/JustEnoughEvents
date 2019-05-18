@@ -1,0 +1,10 @@
+
+*.log
+.gradle/
+.idea/
+out/
+eclipse/
+classes/
+*.ipr
+*.iws
+*.iml
